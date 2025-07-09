@@ -6,5 +6,5 @@ edition = "2024"
 [dependencies]
 burn = { version = "0.17.1", features = ["train", "autodiff", "ndarray"] }
 plotters = "0.3.7"
-rand = "0.8.5"
+rand = "0.9.1"
 clap = { version = "4.5", features = ["derive"] }
